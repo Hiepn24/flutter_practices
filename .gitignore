@@ -1,0 +1,40 @@
+File do Flutter tạo, chứa các gói đã tải về
+
+**/.dart_tool/
+**/.packages
+
+File do Build Runner tạo (cho Hive)
+
+**/.g.dart
+**/.freezed.dart
+
+File cấu hình của IDE
+
+**/.idea/
+**/*.iml
+
+Các file build của hệ điều hành
+
+.DS_Store
+Thumbs.db
+
+File build của Flutter
+
+**/build/
+
+Các file metadata của Flutter
+
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+
+--- TUYỆT ĐỐI QUAN TRỌNG: BẢO MẬT ---
+
+File chứa key của Firebase (Project 10)
+
+**/google-services.json
+**/GoogleService-Info.plist
+
+File do FlutterFire CLI tạo (chứa key)
+
+**/lib/firebase_options.dart
